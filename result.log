@@ -1,0 +1,10 @@
+Number of training Samples: 4459
+Number of testing Samples: 1115
+TP: 137
+FN: 14
+TN: 941
+FP: 23
+Accuracy: 96.68%
+Precision: 85.62%
+Recall: 90.73%
+F1 Score: 88.10%
